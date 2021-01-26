@@ -5,7 +5,7 @@ import requests
 import time
 
 #Токен из задания
-token = '52e5bf9681ba4fc741945f3301c475951f7fb8bc86f1690793e9fa014bdb1acb0eb1384dc0a58d1cc8d69'
+token = ''
 
 
 URL = 'https://api.vk.com/method/'
